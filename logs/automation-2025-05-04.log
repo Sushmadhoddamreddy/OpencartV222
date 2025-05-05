@@ -1,0 +1,41 @@
+2025-05-02 23:20:23.445 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-05-02 23:20:23.483 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-05-02 23:20:23.540 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-05-02 23:20:23.543 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-05-02 23:20:23.567 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-05-02 23:20:23.568 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-05-02 23:20:23.570 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-05-02 23:20:23.600 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-05-02 23:20:23.601 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-05-02 23:20:23.602 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-05-02 23:20:23.649 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-05-02 23:20:23.652 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-05-02 23:20:23.653 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-05-02 23:20:23.687 [main] INFO  testCases.TC003_LoginDDT -*****Starting TC003_LoginDDT***
+2025-05-02 23:20:26.854 [main] INFO  testCases.TC003_LoginDDT -*****Excecution of TC003_LoginDDT is completed***
+2025-05-02 23:20:26.861 [main] INFO  testCases.TC003_LoginDDT -*****Starting TC003_LoginDDT***
+2025-05-02 23:20:38.760 [main] INFO  testCases.TC003_LoginDDT -*****Starting TC003_LoginDDT***
+2025-05-02 23:20:41.553 [main] INFO  testCases.TC003_LoginDDT -*****Starting TC003_LoginDDT***
+2025-05-02 23:20:52.988 [main] INFO  testCases.TC003_LoginDDT -*****Excecution of TC003_LoginDDT is completed***
+2025-05-02 23:20:52.995 [main] INFO  testCases.TC003_LoginDDT -*****Starting TC003_LoginDDT***
+2025-05-02 23:20:54.969 [main] INFO  testCases.TC003_LoginDDT -*****Excecution of TC003_LoginDDT is completed***
+2025-05-02 23:22:18.093 [main] INFO  testCases.TC001_AccountRegistrationTest -******Starting  TC001_AccountRegistrationTest********
+2025-05-02 23:22:22.076 [main] INFO  testCases.TC002_LoginTest -*******Starting TC002_LoginTest*****
+2025-05-02 23:23:19.271 [main] INFO  testCases.TC001_AccountRegistrationTest -******Starting  TC001_AccountRegistrationTest********
+2025-05-02 23:23:22.269 [main] INFO  testCases.TC002_LoginTest -*******Starting TC002_LoginTest*****
+2025-05-02 23:26:19.936 [main] INFO  testCases.TC001_AccountRegistrationTest -******Starting  TC001_AccountRegistrationTest********
+2025-05-02 23:26:22.750 [main] INFO  testCases.TC002_LoginTest -*******Starting TC002_LoginTest*****
+2025-05-02 23:28:24.182 [main] INFO  testCases.TC001_AccountRegistrationTest -******Starting  TC001_AccountRegistrationTest********
+2025-05-04 15:31:07.354 [main] INFO  testCases.TC001_AccountRegistrationTest -******Starting  TC001_AccountRegistrationTest********
+2025-05-04 15:31:08.066 [main] INFO  testCases.TC001_AccountRegistrationTest -clicked on MyAccountLink
+2025-05-04 15:31:08.670 [main] INFO  testCases.TC001_AccountRegistrationTest -clicked on Registration
+2025-05-04 15:31:08.733 [main] INFO  testCases.TC001_AccountRegistrationTest -******Entering Customer details********
+2025-05-04 15:31:10.808 [main] INFO  testCases.TC001_AccountRegistrationTest -validating expected message
+2025-05-04 15:31:10.967 [main] INFO  testCases.TC001_AccountRegistrationTest -*******Completed TC001_AccountRegistrationTest execution********
+2025-05-04 15:31:14.798 [main] INFO  testCases.TC002_LoginTest -*******Starting TC002_LoginTest*****
+2025-05-04 15:31:17.324 [main] INFO  testCases.TC002_LoginTest -******Finished  TC002_LoginTest*****
+2025-05-04 21:17:50.317 [main] INFO  testCases.TC001_AccountRegistrationTest -******Starting  TC001_AccountRegistrationTest********
+2025-05-04 21:17:50.922 [main] INFO  testCases.TC001_AccountRegistrationTest -clicked on MyAccountLink
+2025-05-04 21:17:51.529 [main] INFO  testCases.TC001_AccountRegistrationTest -clicked on Registration
+2025-05-04 21:17:51.647 [main] INFO  testCases.TC001_AccountRegistrationTest -******Entering Customer details********
+2025-05-04 21:17:53.644 [main] INFO  testCases.TC001_AccountRegistrationTest -validating expected message

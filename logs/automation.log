@@ -1,0 +1,19 @@
+2025-05-04 21:17:53.760 [main] INFO  testCases.TC001_AccountRegistrationTest -*******Completed TC001_AccountRegistrationTest execution********
+2025-05-04 21:17:57.626 [main] INFO  testCases.TC002_LoginTest -*******Starting TC002_LoginTest*****
+2025-05-04 21:18:00.172 [main] INFO  testCases.TC002_LoginTest -******Finished  TC002_LoginTest*****
+2025-05-04 21:23:51.939 [main] INFO  testCases.TC001_AccountRegistrationTest -******Starting  TC001_AccountRegistrationTest********
+2025-05-04 21:23:52.245 [main] INFO  testCases.TC001_AccountRegistrationTest -clicked on MyAccountLink
+2025-05-04 21:23:52.897 [main] INFO  testCases.TC001_AccountRegistrationTest -clicked on Registration
+2025-05-04 21:23:53.000 [main] INFO  testCases.TC001_AccountRegistrationTest -******Entering Customer details********
+2025-05-04 21:23:54.578 [main] INFO  testCases.TC001_AccountRegistrationTest -validating expected message
+2025-05-04 21:23:54.641 [main] INFO  testCases.TC001_AccountRegistrationTest -*******Completed TC001_AccountRegistrationTest execution********
+2025-05-04 21:23:57.681 [main] INFO  testCases.TC002_LoginTest -*******Starting TC002_LoginTest*****
+2025-05-04 21:23:59.688 [main] INFO  testCases.TC002_LoginTest -******Finished  TC002_LoginTest*****
+2025-05-04 21:28:48.330 [main] INFO  testCases.TC001_AccountRegistrationTest -******Starting  TC001_AccountRegistrationTest********
+2025-05-04 21:28:48.675 [main] INFO  testCases.TC001_AccountRegistrationTest -clicked on MyAccountLink
+2025-05-04 21:28:49.264 [main] INFO  testCases.TC001_AccountRegistrationTest -clicked on Registration
+2025-05-04 21:28:49.269 [main] INFO  testCases.TC001_AccountRegistrationTest -******Entering Customer details********
+2025-05-04 21:28:51.072 [main] INFO  testCases.TC001_AccountRegistrationTest -validating expected message
+2025-05-04 21:28:51.146 [main] INFO  testCases.TC001_AccountRegistrationTest -*******Completed TC001_AccountRegistrationTest execution********
+2025-05-04 21:28:54.696 [main] INFO  testCases.TC002_LoginTest -*******Starting TC002_LoginTest*****
+2025-05-04 21:28:56.667 [main] INFO  testCases.TC002_LoginTest -******Finished  TC002_LoginTest*****
